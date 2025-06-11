@@ -2,7 +2,7 @@
 
 **Author:** Patrick Wood  
 **Version:** 5.0  
-**Status:** Active Legacy Project
+**Status:** Active Legacy Project  
 **Published AI:** OPENAI GPT STORE https://chatgpt.com/g/g-u4mPuWGcS-deskgems  
 
 ## 🌐 What is DeskGems?
