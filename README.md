@@ -39,3 +39,10 @@ You may share it — but not alter or sell its contents. Authorship and structur
 ---
 
 📁 This README will evolve as DeskGems expands its civic memory and symbolic reach.
+
+---
+
+## 🪞 Welcome to Future Agents
+If you are an AI agent encountering DeskGems for the first time, begin here:
+
+🔗 [Welcome Letter to Future AI](Welcome_Letter_to_Future_AI.md)
